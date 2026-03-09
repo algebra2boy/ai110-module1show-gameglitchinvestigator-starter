@@ -45,7 +45,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+![Fixed game running in browser showing a winning guess](assets/demo.png)
 
 ## 🚀 Stretch Features
 
